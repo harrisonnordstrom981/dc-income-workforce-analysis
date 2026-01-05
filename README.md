@@ -23,6 +23,12 @@ Tools Used: SQL, Tableau
 - Long-term employees tend to exhibit more stable compensation patterns.
 - Temporary employees significantly skew salary distributions and were excluded from tenure-based analyses.
 
-### Visualization
- - I visualized this project via Tableau;
+### Tableau Workbook
+The Tableau workbook file (`.twbx`) is included for reproducibility.  
+GitHub displays Tableau workbooks as raw XML and cannot render them visually.
+
+To view the visualizations:
+- See screenshots in the .twbx file
+- Use the interactive Tableau Public link below
  - https://public.tableau.com/views/DCIncomeDataAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
